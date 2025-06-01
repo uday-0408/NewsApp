@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": null,
+      "title": "The Bison is back: Indiana Hoosiers announce return of beloved '60s mascot",
+      "description": "Hoosier the Bison is returning home to Indiana University, the school announced in a video on Tuesday.",
+      "url": "https://www.foxsports.com/stories/college-football/bison-back-indiana-hoosiers-announce-return-beloved-60s-mascot",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/05/1408/814/hoosiers1.jpg?ve=1&tl=1",
+      "publishedAt": "2025-05-28T02:27:57Z",
+      "content": "Hoosier the Bison is returning home to Indiana University.\r\nOn Tuesday, the school announced that Hoosier the Bison, Indiana University's beloved mascot from 1965 to 1969, will be back roaming the si… [+1029 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Peter Pinedo",
+      "title": "Melania Trump spokesperson shuts down ‘completely false’ theory about husband and son",
+      "description": "A first lady spokesperson shut down “completely false\" theories that the president is warring with Harvard because their son, Barron, was supposedly not accepted to the school.",
+      "url": "https://www.foxnews.com/politics/melania-trump-spokesperson-shuts-down-completely-false-theory-about-husband-son",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/05/melania-and-barron-trump-and-harvard.png",
+      "publishedAt": "2025-05-28T00:55:05Z",
+      "content": "A spokesperson for first lady Melania Trump shut down a \"completely false\" theory that her husband, the president, is warring with Harvard University because her son, Barron, was supposedly not accep… [+3001 chars]"
+    },
+    {
+      "source": {
+        "id": "new-york-magazine",
+        "name": "New York Magazine"
+      },
+      "author": "Olivia Craighead",
+      "title": "Kourtney Kardashian Thinks Going to School Is ‘Dated’",
+      "description": "Kourtney Kardashian has been asking herself, ‘Why do kids f- - -ing go to school?’ Thanks to some helpful videos her kids sent her, she’s decided the practice is ‘dated.’",
+      "url": "https://www.thecut.com/article/kourtney-kardashian-going-to-school-is-dated.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/808/f72/3b6b9e4d397c1669500a9c3500d4aee744-Kourtney-Kardashian.1x.rsocial.w1200.jpg",
+      "publishedAt": "2025-05-27T20:17:05Z",
+      "content": "School? The place where children go to learn to read, write, solve problems, hone their fine motor skills, and exist in community with their peers? That nonsense is out, according to Kourtney Kardash… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": "msnbc",
+        "name": "MSNBC"
+      },
+      "author": "Jordan Rubin",
+      "title": "Thomas and Alito dissent from refusal to hear 'Two Genders' student T-shirt appeal",
+      "description": "The Supreme Court refused to hear an appeal over a middle schooler being barred from wearing a T-shirt to class that said, “There Are Only Two Genders.”",
+      "url": "https://www.msnbc.com/deadline-white-house/deadline-legal-blog/two-genders-student-shirt-supreme-court-alito-thomas-rcna209198",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-02/240209-liam-morrison-two-genders-shirt-ONETIMEUSEmn-1215-bf4992.jpg",
+      "publishedAt": "2025-05-27T17:37:23Z",
+      "content": "The Supreme Court refused to hear an appeal over a middle schooler being barred from wearing a T-shirt to class that said, There Are Only Two Genders. Justices Clarence Thomas and Samuel Alito dissen… [+4578 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": null,
+      "title": "How do I find out why a particular site was blocked?",
+      "description": "The CIPA guidelines require schools to block students’ access to “inappropriate matter on the internet,” which includes obscene and pornographic content. Securly Filter helps to ensure that all suc...",
+      "url": "https://support.securly.com/hc/en-us/articles/214616977-How-do-I-find-out-why-a-particular-site-was-blocked-",
+      "urlToImage": "https://support.securly.com/hc/theming_assets/01HZPJX56DF37JS71RMXS4D5BM",
+      "publishedAt": "2025-04-12T15:52:31.6783186Z",
+      "content": "The CIPA guidelines require schools to block students access to inappropriate matter on the internet, which includes obscene and pornographic content. Securly Filter helps to ensure that all such con… [+1351 chars]"
+    },
+    {
+      "source": {
+        "id": "the-irish-times",
+        "name": "The Irish Times"
+      },
+      "author": "Mary Carolan",
+      "title": "Principal hoped she could ‘work through’ issue with Enoch Burke before email challenge",
+      "description": "Mr Burke is not participating in the action between him and Wilson’s Hospital School",
+      "url": "https://www.irishtimes.com/crime-law/courts/2023/03/29/principal-hoped-she-could-work-through-issue-with-enoch-burke-before-email-challenge/",
+      "urlToImage": "https://www.irishtimes.com/resizer/mXJimx_H8VdZhIDqWtE1FalImWU=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/P47AXEDQ7MMM2TBLPWASNL4VVE.jpg",
+      "publishedAt": "2023-03-29T12:05:51Z",
+      "content": "The former principal of Wilsons Hospital School has told the High Court she regarded an email sent to her by Enoch Burke as a significant challenge to her request that a student be addressed by a new… [+4936 chars]"
+    },
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu Net Desk",
+      "title": "Coronavirus live updates | Schools in Rajasthan to reopen from August 2",
+      "description": "More than half of all European adults are now fully vaccinated, the EU said on Thursday, as countries across Europe and Asia battled fresh outbreaks blamed on the fast-spreading Delta variant.",
+      "url": "https://www.thehindu.com/news/national/coronavirus-live-july-23-2021-updates/article35481907.ece",
+      "urlToImage": "https://www.thehindu.com/news/national/andhra-pradesh/itrjr2/article35457972.ece/ALTERNATES/LANDSCAPE_615/22vjcovid",
+      "publishedAt": "2021-07-23T04:37:35.1474224Z",
+      "content": "Given the robust and statute-based death registration system in the country, while some cases could go undetected as per the principles of infectious disease and its management, missing out on deaths… [+2612 chars]"
+    }
+  ]
+}
